@@ -12,8 +12,8 @@
   <a href="https://x.com/ArcadianSkyy">
     <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:arcadianskybox@proton.me">
-    <img src="https://img.shields.io/badge/-Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <a href="mailto:arcadianskybox@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-fc413d?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Arcadian-Sky">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
